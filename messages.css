@@ -1,0 +1,157 @@
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #A9A9A9;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color:#A9A9A9;
+}
+
+.thumbnail {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background:   #A9A9A9;
+  border-color:   #A9A9A9;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #A9A9A9;
+}
+
+.card {
+  border-color: #A9A9A9;
+  padding-left:10px;
+}
+
+.card-title .cardtitlee {
+  color: #e16879;
+  font-weight: 300;
+}
+
+
+.card-block small {
+  float: right;
+}
+
+.container4.navbar-text {
+  text-align:right;
+}
+
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+ 
+p {
+    border: 1px #A9A9A9;
+    padding: 10px;
+}
+
+.navbar-brand {
+  color:#A9A9A9;
+  font-size: 20px;
+  text-align: left;
+  padding: 5px;
+}
+
+.btn-default .navbar-btn {
+  text-align: left;
+  }
+
+
+.list-group-item-text-box {
+	border: 5px;
+	border-color:#215C89;
+	padding-top:10px;
+}
+
+.list-group {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.reading{
+  padding-top: 40px;
+}
+
+.map{
+  padding-top: 20px;
+}
+
+.fa.fa-linkedin-square {
+  font-size: 30px;
+}
+
+.fa.fa-twitter {
+  font-size: 30px;
+}
+
+.fa.fa-facebook-square {
+  font-size: 30px;
+}
+
+.fa.fa-spotify {
+  font-size: 30px;
+}
+
+.glyphicon.glyphicon-Home {
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.glyphicon.glyphicon-cog {
+   font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.glyphicon.glyphicon-search{
+   font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.glyphicon.glyphicon-flag{
+   font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.glyphicon.glyphicon-option-vertical {
+   font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.panel-heading{
+  font-size:20px;
+    border: 1px #A9A9A9;
+    padding-right: 10px;
+}
+
+
+.col-md-8{
+  padding-top: 30px;
+}
